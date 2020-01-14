@@ -1,0 +1,37 @@
+
+.bg-blue{
+    background: #3079AB;
+    color: white;
+
+}
+.card-white {
+    background: white;
+    padding: 30px;
+    box-shadow: 1px 1px 2px #e7e7e7;
+    border-radius: 4px;
+    margin: 20px 50px;
+  }
+
+   
+.mb-10{
+    margin-bottom: 40px;
+}
+.mt-10{
+    margin-top: 63px;
+}
+
+
+.bg-gray{
+    background-color:rgb(220, 222, 224) ;
+}
+.title{
+    text-align: center;
+    color: rgb(105, 101, 101); 
+    
+}
+.title-2{
+    font-size: 35px;
+}
+.child-bottom{
+    color:rgb(105, 101, 101); 
+}

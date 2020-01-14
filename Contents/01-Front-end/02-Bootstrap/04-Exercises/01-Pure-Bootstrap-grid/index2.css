@@ -1,0 +1,32 @@
+.container{
+    width: 100%;
+}
+
+.child{
+    height: 100px;
+    border: 1px solid rgb(196, 181, 181);
+    background-color: rgb(241, 236, 235);
+    text-align: center;
+   
+   
+    
+
+}
+.child-nested{
+    background-color: rgb(153, 148, 148);
+}
+
+ .fa {
+     color: rgb(206, 200, 200);
+     font-size: 90px;
+     opacity: 50%;
+}
+h1{
+    color: rgb(153, 151, 151);
+    text-align: center;
+}
+
+h2{
+    color: rgb(153, 151, 151);
+    text-align: center;
+}

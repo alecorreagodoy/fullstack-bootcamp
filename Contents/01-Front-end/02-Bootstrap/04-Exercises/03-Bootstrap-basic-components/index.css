@@ -1,0 +1,78 @@
+
+   body{
+    background-color:rgb(243, 241, 241);
+
+   }
+    .plane-bck{
+        background-color: #ff4800;
+        
+        text-align: center;
+       
+    }
+
+    .row{
+        margin: 0px;
+    }
+    .fa-bars{
+        transform: rotate(270deg);
+    }
+
+    .fa-plane{
+        margin-top: 20px;
+        margin-left: 10px;
+    }
+    .breadcrumb{
+        background-color: rgb(255, 255, 255);
+    }
+    
+    .card-text{
+        font-size: 10px;
+    }
+    .cards{
+        display: grid;
+        grid-gap: 10px;
+    }
+
+    .icon{
+        padding-left: 10px;
+        text-align: center;
+    }
+    .db-span{
+        font-size: 20px;
+    }
+    .tasks-panel{
+        background-color: rgb(255, 255, 255);
+        border:black;
+        border-radius: 5px;
+        margin-top: 10px;
+        margin-left: 20px;
+    }
+    .tasks-panel p {
+        font-size: 12px;
+        text-align: justify;
+    }
+    .badge{
+        color: #ffffff;
+
+    }
+    table, th, td {
+        border: 1px solid black;
+        font-size: 12px;
+
+    }
+    table{
+        margin: 20px;
+        border-radius: 5px;
+        margin-left: 2px;
+    
+       
+    }
+    .tabla{
+        background-color:#ffffff ;
+        margin: 10px 5px 0px 10px;
+        padding: 5px;
+        border-radius: 5px;
+        
+       
+    }
+    
